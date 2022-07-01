@@ -1,0 +1,34 @@
+{
+    "posts": [{
+            "id": 1,
+            "title": "json-server",
+            "author": "typicode"
+        },
+        {
+            "id": "x8wzqr-aprp-ibuj-ryftci",
+            "timestamp": "2022-7-1 10:14:26",
+            "body": "rfrfrf",
+            "status": "Not complete"
+        },
+        {
+            "id": 2,
+            "timestamp": "",
+            "body": "",
+            "status": "Not complete"
+        },
+        {
+            "id": 3,
+            "timestamp": "",
+            "body": "",
+            "status": "Not complete"
+        }
+    ],
+    "comments": [{
+        "id": 1,
+        "body": "some comment",
+        "postId": 1
+    }],
+    "profile": {
+        "name": "typicode"
+    }
+}
